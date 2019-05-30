@@ -1,3 +1,4 @@
+from itertools import cycle
 from bs4 import BeautifulSoup
 import requests
 import threading
